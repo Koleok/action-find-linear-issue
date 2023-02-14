@@ -1,6 +1,6 @@
 {
   "name": "action-create-linear-issue",
-  "version": "0.6",
+  "version": "0.7",
   "description": "",
   "main": "lib/main.js",
   "private": true,
@@ -14,8 +14,8 @@
   "author": "ctriolo",
   "license": "MIT",
   "dependencies": {
-    "@actions/core": "^1.8.0",
-    "@actions/github": "^5.0.1",
+    "@actions/core": "^1.10.0",
+    "@actions/github": "^5.1.0",
     "@linear/sdk": "^1.22.0"
   },
   "devDependencies": {
